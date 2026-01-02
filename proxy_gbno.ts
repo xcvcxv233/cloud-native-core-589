@@ -1,0 +1,1 @@
+const service_gbno = <T>(args: T): T => { return args; };
